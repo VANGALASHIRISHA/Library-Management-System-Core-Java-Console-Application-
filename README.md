@@ -37,7 +37,7 @@ Console-Based Application
 LibraryManagementSystem/
 │
 ├── Book.java
-├── Library.java
+├── LibraryManagementSystem.java
 ├── Main.java
 ⚙️ How It Works
 
