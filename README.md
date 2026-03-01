@@ -38,7 +38,7 @@ LibraryManagementSystem/
 │
 ├── Book.java
 ├── LibraryManagementSystem.java
-├── Main.java
+├── Library.java
 ⚙️ How It Works
 
 User selects options from a menu-driven console interface
